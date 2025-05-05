@@ -1,4 +1,4 @@
-YPE html>
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -15,6 +15,22 @@ YPE html>
                 <div class = "cartão__conteudo__resposta">
                     Eles combinam de compartilhar o mesmo apartamento, mas em horários diferentes: Tiffy fica lá à noite e nos fins de semana, enquanto Leon usa o espaço durante o dia, quando Tiffy está no trabalho.
                 </div>
+            </article>
+            <article class = "cartão">
+                <div class = "cartão__conteudo__pergunta">
+                    Qual é o motivo pelo qual Leon precisa alugar o apartamento durante as noites e fins de semana?
+                </div>
+                <div class = "cartão__conteudo__resposta">
+                    Leon está tentando juntar dinheiro para ajudar seu irmão, Richie, que está preso e precisa de um bom advogado para conseguir apelar da sentença.
+                </div>
+                <article class = "cartão">
+                    <div class = "cartão__conteudo__pergunta">
+                        De que forma Tiffy descobre que seu ex-namorado Justin a manipulava emocionalmente?
+                    </div>
+                    <div class = "cartão__conteudo__resposta">
+                        Ao longo do livro, Tiffy começa a perceber, com ajuda de amigos e terapia, que Justin a controlava, diminuía sua autoestima e a fazia duvidar de si mesma, o que são sinais claros de abuso psicológico.
+                    </div>
+                </article>
             </article>
         </section>
     </main>
