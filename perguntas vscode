@@ -1,0 +1,22 @@
+YPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcard</title>
+</head>
+<body>
+    <main>
+        <section id= "container">
+            <article class = "cartão">
+                <div class = "cartão__conteudo__pergunta">
+                    Como funciona o acordo inicial entre Tiffy e Leon para dividirem o apartamento?
+                </div>
+                <div class = "cartão__conteudo__resposta">
+                    Eles combinam de compartilhar o mesmo apartamento, mas em horários diferentes: Tiffy fica lá à noite e nos fins de semana, enquanto Leon usa o espaço durante o dia, quando Tiffy está no trabalho.
+                </div>
+            </article>
+        </section>
+    </main>
+</body>
+</html>
